@@ -1,3 +1,4 @@
 module.exports = {
-    trailingSlash: true
+    trailingSlash: true,
+    distDir: 'a/fibr',
 };
